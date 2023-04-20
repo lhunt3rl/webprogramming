@@ -1,0 +1,10 @@
+*{font-family: 'Nanum Myeongjo', serif;}
+.fonttest1{color: blue;}
+.fonttest2{direction: rtl;}
+.fonttest3{letter-spacing: -0.1ch;}
+.fonttest4{line-height: 8ch;}
+.fonttest5{text-align: center;}
+.fonttest6{text-decoration: underline red;}
+.fonttest7{text-indent: 2ch;}
+.fonttest8{text-shadow: 5px 5px 5px coral;}
+.fonttest9{text-transform: capitalize;}
